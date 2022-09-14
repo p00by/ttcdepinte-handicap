@@ -1,0 +1,12 @@
+plugins {
+    id "application"
+}
+apply plugin: 'java'
+
+ext {
+   javaMainClass = "be.ttcdepinte.handicap.Main"
+}
+
+application {
+    mainClassName = javaMainClass
+}
