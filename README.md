@@ -1,0 +1,2 @@
+- Installeer java (het moet op uw PATH staan maar dat is normaal ok)
+- Loop runit.cmd
